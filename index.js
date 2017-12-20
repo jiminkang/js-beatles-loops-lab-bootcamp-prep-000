@@ -10,7 +10,7 @@ function johnLennonFacts (facts){
   var arr = [];
   let i=0;
   while (i<facts.length){
-    arr.push('!!!')
+    arr.push('${facts}!!!')
   }
 }
 
